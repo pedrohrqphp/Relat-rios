@@ -1,0 +1,13 @@
+Relatório de Reunião de Sprint - [13/05]
+
+1. Implementação da API de envio de e-mail para Funcionalidade Esqueci Senha:
+   - Iniciou-se o processo de implementação da API de envio de e-mail para suportar a funcionalidade "Esqueci Senha", permitindo que os usuários recebam instruções para redefinir suas senhas.
+
+2. Implementar funcionalidade de nova postagem:
+   - Começou-se a trabalhar na implementação da funcionalidade que permite aos usuários criar e publicar novas postagens no fórum.
+
+3. Implementar Funcionalidade de filtros:
+   - Iniciou-se o desenvolvimento da funcionalidade de filtros, que permitirá aos usuários filtrar e classificar conteúdos com base em critérios específicos.
+
+4. Desenvolver o menu lateral:
+   - Começou-se a trabalhar no desenvolvimento do menu lateral responsivo do sistema, que fornecerá acesso rápido a diferentes seções e funcionalidades da aplicação.
