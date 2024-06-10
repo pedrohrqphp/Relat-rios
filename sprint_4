@@ -1,0 +1,13 @@
+Relatório de Reunião de Sprint - [15/04]
+
+1. Criar funcionalidade de Login:
+   - Iniciou-se o desenvolvimento da funcionalidade de login, permitindo que os usuários acessem o sistema com suas credenciais.
+
+2. Desenvolver página Home:
+   - Começou-se a trabalhar na criação da página inicial (Home) do projeto, que será a primeira página que os usuários verão ao acessar o sistema.
+
+3. Desenvolver página Sobre:
+   - Iniciou-se o desenvolvimento da página "Sobre", que fornecerá informações sobre o grupo e o projeto.
+
+4. Desenvolver lógica de CRUD:
+   - Começou-se a trabalhar na implementação da lógica de CRUD (Create, Read, Update, Delete), que permitirá a criação, leitura, atualização e exclusão de dados no sistema.
