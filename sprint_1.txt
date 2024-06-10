@@ -1,0 +1,26 @@
+Relatório de Reunião de Sprint - [04/03]
+
+Descrição:
+A reunião de sprint foi realizada para discutir e planejar as atividades para o próximo ciclo de desenvolvimento.
+
+1. Definição da Equipe:
+   - Foram apresentados os membros da equipe e suas respectivas funções.
+   - Discutiu-se a distribuição de responsabilidades e expectativas de cada membro.
+
+2. Definição de Tema:
+   - Foi selecionado o tema principal para o sprint, modificação de dispositivos Android, com base nas necessidades dos objetivos do projeto.
+
+3. Desenvolver SMART:
+   - Os objetivos específicos, mensuráveis, alcançáveis, relevantes e com prazo determinado foram definidos para garantir que as metas do sprint sejam claras e alcançáveis.
+
+4. Desenvolver EAP (Estrutura Analítica do Projeto):
+   - Foi elaborada uma EAP detalhada para dividir o trabalho em tarefas menores e mais gerenciáveis, facilitando o acompanhamento do progresso.
+
+5. Criar Tags para Divulgação:
+   - Foram definidas as tags ou hashtags a serem utilizadas para a divulgação do projeto nas redes sociais ou outros canais de comunicação.
+
+6. Organização do Repositório:
+   - Foi revisada e atualizada a estrutura do repositório de código-fonte para garantir uma organização eficiente dos arquivos e facilitar a colaboração entre os membros da equipe.
+
+7. Levantamento de Requisitos:
+   - Foram identificados e documentados os requisitos do cliente e as funcionalidades a serem desenvolvidas durante o sprint.
